@@ -1,0 +1,27 @@
+body{
+    background-color: #F7ECDE; 
+    font-family: 'Montserrat', sans-serif;
+}
+.card-text{
+    color: silver;
+}
+.card-title{
+    font-family: 'Fraunces', serif;
+}
+h4{
+    font-size:1.5rem; 
+    color:green; 
+    text-decoration:bold; 
+    font-family: 'Fraunces', serif; 
+    margin:auto 0;
+}
+.cutted-price{
+    text-decoration:line-through; 
+    font-size:1rem; 
+    color:silver;
+}
+.btn{
+    margin:auto; 
+    border-radius:5%;
+}
+
